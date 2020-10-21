@@ -1,4 +1,4 @@
-# *Multithreaded-approach-for-efficiency-analysis-of-three-Minimum-Vertex-Cover-algorithms*
+# *Multithreaded approach for efficiency analysis of three Minimum Vertex Cover algorithms*
 ## ECE 650 [Methods and Tools for Software Engineering] Project
 
 ## Overview
