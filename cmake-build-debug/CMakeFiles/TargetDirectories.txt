@@ -1,0 +1,17 @@
+/home/shadman/CLionProjects/new pro/mofaruk.zips_FILES/mofaruk/cmake-build-debug/CMakeFiles/install/strip.dir
+/home/shadman/CLionProjects/new pro/mofaruk.zips_FILES/mofaruk/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/shadman/CLionProjects/new pro/mofaruk.zips_FILES/mofaruk/cmake-build-debug/CMakeFiles/ece650-prj.dir
+/home/shadman/CLionProjects/new pro/mofaruk.zips_FILES/mofaruk/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/shadman/CLionProjects/new pro/mofaruk.zips_FILES/mofaruk/cmake-build-debug/CMakeFiles/list_install_components.dir
+/home/shadman/CLionProjects/new pro/mofaruk.zips_FILES/mofaruk/cmake-build-debug/CMakeFiles/install/local.dir
+/home/shadman/CLionProjects/new pro/mofaruk.zips_FILES/mofaruk/cmake-build-debug/CMakeFiles/install.dir
+/home/shadman/CLionProjects/new pro/mofaruk.zips_FILES/mofaruk/cmake-build-debug/minisat/CMakeFiles/install.dir
+/home/shadman/CLionProjects/new pro/mofaruk.zips_FILES/mofaruk/cmake-build-debug/minisat/CMakeFiles/list_install_components.dir
+/home/shadman/CLionProjects/new pro/mofaruk.zips_FILES/mofaruk/cmake-build-debug/minisat/CMakeFiles/minisat-lib-shared.dir
+/home/shadman/CLionProjects/new pro/mofaruk.zips_FILES/mofaruk/cmake-build-debug/minisat/CMakeFiles/install/strip.dir
+/home/shadman/CLionProjects/new pro/mofaruk.zips_FILES/mofaruk/cmake-build-debug/minisat/CMakeFiles/minisat-lib-static.dir
+/home/shadman/CLionProjects/new pro/mofaruk.zips_FILES/mofaruk/cmake-build-debug/minisat/CMakeFiles/minisat_core.dir
+/home/shadman/CLionProjects/new pro/mofaruk.zips_FILES/mofaruk/cmake-build-debug/minisat/CMakeFiles/rebuild_cache.dir
+/home/shadman/CLionProjects/new pro/mofaruk.zips_FILES/mofaruk/cmake-build-debug/minisat/CMakeFiles/install/local.dir
+/home/shadman/CLionProjects/new pro/mofaruk.zips_FILES/mofaruk/cmake-build-debug/minisat/CMakeFiles/minisat_simp.dir
+/home/shadman/CLionProjects/new pro/mofaruk.zips_FILES/mofaruk/cmake-build-debug/minisat/CMakeFiles/edit_cache.dir

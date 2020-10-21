@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -pthread -Wall  -g  -rdynamic CMakeFiles/ece650-prj.dir/ece650-prj.cpp.o CMakeFiles/ece650-prj.dir/cnfsatvc.cpp.o CMakeFiles/ece650-prj.dir/approxvcs.cpp.o  -o ece650-prj minisat/libminisat.a -lz 
